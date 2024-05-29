@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Hello Alll
 
 ***
@@ -20,12 +21,14 @@ Major: Applied Computer Science
 Concentration: cybersecurity
 
 At college I have learned:
-    * Java
-    * Info security
-    * Algorithmic design
+
+    - Java
+    - Info security
+    - Algorithmic design
 
 <!--Additionaly, I enjoy working on programming projects in my free time.-->
 From avocational experience I have learned:
+
     - Moderate terminal knowledge (mostly bash) 
     - How to use GNU core utilities
     - Vim / Neovim
@@ -34,6 +37,7 @@ From avocational experience I have learned:
 
 <!--A few personal projects I am currently working on are listed below.-->
 I'm currently working on:
+
     - Advertising website to promote mother's real estate business
     - Sudoku game
 
