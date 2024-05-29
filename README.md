@@ -20,9 +20,9 @@ Major: Applied Computer Science
 Concentration: cybersecurity
 
 At college I have learned:
-    - Java
-    - Info security
-    - Algorithmic design
+    * Java
+    * Info security
+    * Algorithmic design
 
 <!--Additionaly, I enjoy working on programming projects in my free time.-->
 From avocational experience I have learned:
