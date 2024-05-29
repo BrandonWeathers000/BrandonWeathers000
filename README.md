@@ -13,33 +13,46 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello Alll
+<!-- This is my personal README -->
+# Hello Alll
 
-***
-College: University of South Carolina: Aiken
-Major: Applied Computer Science 
-Concentration: cybersecurity
+### Basic info:
+* Pronouns: he/him
+* College: University of South Carolina: Aiken
+* Major: Applied Computer Science 
+* Concentration: Cybersecurity
+
+Please feel free to reach out to me view email (brandon.r.weathers@gmail.com).
+<hr>
 
 At college I have learned:
-
-    - Java
-    - Info security
-    - Algorithmic design
+* Java
+* Info security
+* Algorithmic design
+<hr>
 
 <!--Additionaly, I enjoy working on programming projects in my free time.-->
 From avocational experience I have learned:
+* Moderate terminal knowledge (mostly bash) 
+* How to use GNU core utilities
+* Vim / Neovim
+* Basic Linux distro installation
+* Basic operating system knowledge
+<hr>
 
-    - Moderate terminal knowledge (mostly bash) 
-    - How to use GNU core utilities
-    - Vim / Neovim
-    - Basic Linux distro installation
-    - Basic operating system knowledge
+I'm currently learning:
+* HTML
+* CSS
+* PHP
+<!-- The linux operating system-->
+<hr>
 
 <!--A few personal projects I am currently working on are listed below.-->
 I'm currently working on:
-
-    - Advertising website to promote mother's real estate business
-    - Sudoku game
+* Advertising website to promote mother's real estate business
+* Sudoku game
+* Installing lightweight OS to revive old machines
 
 I am happy to accept collaboration with others.
+
 In particular, I have come to a standstill on the real estate website and would love to hear advice.
