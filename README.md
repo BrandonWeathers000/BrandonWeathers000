@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- This is my personal README -->
-# Hello Alll
+# Hello All
 
 ### Basic info:
 * Pronouns: he/him
