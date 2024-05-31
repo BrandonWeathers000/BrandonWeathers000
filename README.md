@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 * Major: Applied Computer Science 
 * Concentration: Cybersecurity
 
-Please feel free to reach out to me view email (brandon.r.weathers@gmail.com).
+Please feel free to reach out to me via email (brandon.r.weathers@gmail.com).
 <hr>
 
 At college I have learned:
