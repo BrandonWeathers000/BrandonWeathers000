@@ -16,43 +16,69 @@ Here are some ideas to get you started:
 <!-- This is my personal README -->
 # Hello All
 
-### Basic info:
-* Pronouns: he/him
-* College: University of South Carolina: Aiken
-* Major: Applied Computer Science 
-* Concentration: Cybersecurity
-
-Please feel free to reach out to me via email (brandon.r.weathers@gmail.com).
+<!-- Here I am using an html table for more control over the stlying-->
+<table style="text-align: center">
+        <tr>
+            <td colspan="2"><b>General Info</b></td>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Brandon Weathers</td>
+        </tr>
+        <tr>
+            <td>Pronouns</td>
+            <td>He / Him</td>
+        </tr>
+        <tr>
+            <td>College</td>
+            <td>University of South Carolina: Aiken</td>
+        </tr>
+        <tr>
+            <td>Major</td>
+            <td>Applied Computer Science</td>
+        </tr>
+        <tr>
+            <td>Concentration</td>
+            <td>Cybersecurity</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td>brandon.r.weathers@gmail.com</td>
+        </tr>
+</table>
 <hr>
 
-At college I have learned:
+### Formaly Educated In
 * Java
+* Javascript
 * Info security
 * Algorithmic design
 <hr>
 
 <!--Additionaly, I enjoy working on programming projects in my free time.-->
-From avocational experience I have learned:
+### Education From Avocation
 * Moderate terminal knowledge (mostly bash) 
-* How to use GNU core utilities
+* GNU core utility use
 * Vim / Neovim
 * Basic Linux distro installation
 * Basic operating system knowledge
+* Microsoft office and google suite
 <hr>
 
-I'm currently learning:
+### I'm currently learning
 * HTML
 * CSS
 * PHP
-<!-- The linux operating system-->
+* Linux
 <hr>
 
 <!--A few personal projects I am currently working on are listed below.-->
-I'm currently working on:
+### Currently Working On
 * Advertising website to promote mother's real estate business
 * Sudoku game
 * Installing lightweight OS to revive old machines
 
+<hr>
 I am happy to accept collaboration with others.
 
 In particular, I have come to a standstill on the real estate website and would love to hear advice.
