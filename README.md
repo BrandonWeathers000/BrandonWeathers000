@@ -4,8 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -78,7 +77,47 @@ Here are some ideas to get you started:
 * Sudoku game
 * Installing lightweight OS to revive old machines
 
-<hr>
 I am happy to accept collaboration with others.
 
 In particular, I have come to a standstill on the real estate website and would love to hear advice.
+<hr>
+
+<table style="text-align: center">
+    <tr>
+        <td colspan="2">
+            <b>Some of my other profiles</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Handshake
+        </td>
+        <td>
+            https://usca.joinhandshake.com/stu/users/46767162
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Indead
+        </td>
+        <td>
+            https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage
+        </td>
+    </tr>
+    <tr>
+        <td>
+            LinkedIn
+        </td>
+        <td>
+            www.linkedin.com/in/brandon-weathers-51a4a5134
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Monster
+        </td>
+        <td>
+            https://www.monster.com/profile/detail
+        </td>
+    </tr>
+</table>
