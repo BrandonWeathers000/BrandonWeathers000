@@ -64,5 +64,5 @@ In particular, I have come to a standstill on the real estate website and would 
 | Handshake    | https://usca.joinhandshake.com/stu/users/46767162                 |
 | :---:        | :---:                                                             |
 | **Indead**   | **https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage** |
-| **LinkedIn** | **w.linkedin.com/in/brandon-weathers-51a4a5134**                  |
+| **LinkedIn** | **www.linkedin.com/in/brandon-weathers-51a4a5134**                |
 | **Monster**  | **https://www.monster.com/profile/detail**                        |
