@@ -16,36 +16,14 @@ Here are some ideas to get you started:
 # Hello All
 
 <!-- Here I am using an html table for more control over the stlying-->
-<table style="text-align: center">
-        <tr>
-            <td colspan="2"><b>General Info</b></td>
-        </tr>
-        <tr>
-            <td>Name</td>
-            <td>Brandon Weathers</td>
-        </tr>
-        <tr>
-            <td>Pronouns</td>
-            <td>He / Him</td>
-        </tr>
-        <tr>
-            <td>College</td>
-            <td>University of South Carolina: Aiken</td>
-        </tr>
-        <tr>
-            <td>Major</td>
-            <td>Applied Computer Science</td>
-        </tr>
-        <tr>
-            <td>Concentration</td>
-            <td>Cybersecurity</td>
-        </tr>
-        <tr>
-            <td>Email</td>
-            <td>brandon.r.weathers@gmail.com</td>
-        </tr>
-</table>
-<hr>
+### General Info
+| Name              | Brandon Weathers                        |
+| :---:             | :---:                                   |
+| **Pronouns**      | **He / Him**                            |
+| **College**       | **University of South Carolina: Aiken** |
+| **Major**         | **Applied Computer Science**            |
+| **Concentration** | **Cybersecurity**                       |
+| **Email**         | **brandon.r.weathers@gmail.com**        |
 
 ### Formaly Educated In
 * Java
@@ -82,42 +60,9 @@ I am happy to accept collaboration with others.
 In particular, I have come to a standstill on the real estate website and would love to hear advice.
 <hr>
 
-<table style="text-align: center">
-    <tr>
-        <td colspan="2">
-            <b>Some of my other profiles</b>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Handshake
-        </td>
-        <td>
-            https://usca.joinhandshake.com/stu/users/46767162
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Indead
-        </td>
-        <td>
-            https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage
-        </td>
-    </tr>
-    <tr>
-        <td>
-            LinkedIn
-        </td>
-        <td>
-            www.linkedin.com/in/brandon-weathers-51a4a5134
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Monster
-        </td>
-        <td>
-            https://www.monster.com/profile/detail
-        </td>
-    </tr>
-</table>
+### Some of my other profiles
+| Handshake    | https://usca.joinhandshake.com/stu/users/46767162                 |
+| :---:        | :---:                                                             |
+| **Indead**   | **https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage** |
+| **LinkedIn** | **w.linkedin.com/in/brandon-weathers-51a4a5134**                  |
+| **Monster**  | **https://www.monster.com/profile/detail**                        |
