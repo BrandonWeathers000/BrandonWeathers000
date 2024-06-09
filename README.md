@@ -87,77 +87,93 @@ IMPORTANT NOTE: the GitHub DOES NOT allow any CSS to run inside a README.md file
     <tr>
         <td>
             <ul>
-            <b>Academically Qualified</b>
                 <li>
-                    Java
-                </li>
-                <li>
-                    JavaScript
-                </li>
-                <li>
-                    HTML
-                </li>
-                <li>
-                    CSS
-                </li>
-                <li>
-                    Info security
-                </li>
-                <li>
-                    Algorithmic Design 
+                    Academically Qualified
+                    <ul>
+                        <li>
+                            Java
+                        </li>
+                        <li>
+                            JavaScript
+                        </li>
+                        <li>
+                            HTML
+                        </li>
+                        <li>
+                            CSS
+                        </li>
+                        <li>
+                            Info security
+                        </li>
+                        <li>
+                            Algorithmic design
+                        </li>
+                    </ul>
                 </li>
             </ul>
         </td>
         <td>
             <ul>
-            <b>Education From Avocation</b>
-            <!-- Additionaly, I enjoy working on programming projects in my free time -->
                 <li>
-                    Moderate terminal knowledge
-                    <br>
-                    (both Bash and Windows terminal)
+                    Education From Avocation
+                    <ul>
+                        <li>
+                            Moderate terminal knowledge
+                            <br>
+                            (both Bash and Windows terminal)
+                        </li>
+                        <li>
+                            Vim / Neovim
+                        </li>
+                        <li>
+                            Basic operating system operation
+                        </li>
+                        <li>
+                            Microsoft office and google suites 
+                        </li>
+                    </ul>
                 </li>
-                <li>
-                    Vim / Neovim
-                </li>
-                <li>
-                    Basic operating system operation
-                </li>
-                <li>
-                    Microsoft office and google suites 
-                </li>
+                <!-- Additionaly, I enjoy working on programming projects in my free time -->
             </ul>
         </td>
     </tr>
     <tr>
         <td>
             <ul>
-            <b>Currently Learning</b>
                 <li>
-                    HTML
-                </li>
-                <li>
-                    CSS
-                </li>
-                <li>
-                    PHP
-                </li>
-                <li>
-                    Linux
+                    Currently Learning
+                    <ul>
+                        <li>
+                            HTML
+                        </li>
+                        <li>
+                            CSS
+                        </li>
+                        <li>
+                            PHP
+                        </li>
+                        <li>
+                            Linux
+                        </li>
+                    </ul>
                 </li>
             </ul>
         </td>
         <td>
             <ul>
-            <b>Currently Working On</b>
                 <li>
-                    Sudoku game
-                </li>
-                <li>
-                    Real estate advertising website
-                </li>
-                <li>
-                    Installing lightweight OS to revive old machines 
+                    Currently Working On
+                    <ul>
+                        <li>
+                            Sudoku game
+                        </li>
+                        <li>
+                            Real estate advertising website
+                        </li>
+                        <li>
+                            Installing lightweight OS to revive old machines 
+                        </li>
+                    </ul>
                 </li>
             </ul>
         </td>
