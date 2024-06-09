@@ -13,15 +13,12 @@ Here are some ideas to get you started:
 -->
 
 <!--
-To-Do list:
-- Revert the General Info and Other Profiles tables back into HTML to have all cells the same color 
-- Put lists inside an HTML table so that they are side by side
-- Center the title of the readme (the "Hello All")
+IMPORTANT NOTE: the GitHub DOES NOT allow any CSS to run inside a README.md file and there is little to no way to get around this.
 -->
 
 # Hello All
 
-<h3 style="text-align: center;">
+<h3>
     Some of my other profiles
 </h3>
 <!-- Here I am using an html table for more control over the stlying -->
@@ -35,7 +32,7 @@ To-Do list:
 | **Concentration** | **Cybersecurity**                       |
 | **Email**         | **brandon.r.weathers@gmail.com**        |
 --->
-<table style="width: 60%; display: block; margin-left: auto; margin-right: auto; text-align: center; font-weight: bold;">
+<table>
     <tr>
         <td>
             Name
@@ -86,13 +83,11 @@ To-Do list:
     </tr>
 </table>
 
-<table style="width: 80%; display: block; margin-left: auto; margin-right: auto; text-align: center; list-style-position: inside;">
+<table>
     <tr>
         <td>
             <ul>
-            <h4>
-                Academically qualified
-            </h4>
+            <b>Academically Qualified</b>
                 <li>
                     Java
                 </li>
@@ -115,9 +110,7 @@ To-Do list:
         </td>
         <td>
             <ul>
-            <h4>
-                Education From Avocation
-            </h4>
+            <b>Education From Avocation</b>
             <!-- Additionaly, I enjoy working on programming projects in my free time -->
                 <li>
                     Moderate terminal knowledge
@@ -139,9 +132,7 @@ To-Do list:
     <tr>
         <td>
             <ul>
-            <h4>
-                Currently Learning
-            </h4>
+            <b>Currently Learning</b>
                 <li>
                     HTML
                 </li>
@@ -158,9 +149,7 @@ To-Do list:
         </td>
         <td>
             <ul>
-            <h4>
-                Currently Working On
-            </h4>
+            <b>Currently Working On</b>
                 <li>
                     Sudoku game
                 </li>
@@ -176,7 +165,7 @@ To-Do list:
 </table>
 
 <!--- ### Some of my other profiles -->
-<h3 style="text-align: center;">
+<h3>
     Some of my other profiles
 </h3>
 
@@ -188,7 +177,7 @@ To-Do list:
 | **Monster**  | **https://www.monster.com/profile/detail**                        |
 -->
 
-<table style="width: 80%; display: block; margin-left: auto; margin-right: auto; text-align: center; font-weight: bold;">
+<table>
     <tr>
         <td>
             Handshake
