@@ -102,12 +102,6 @@ IMPORTANT NOTE: the GitHub DOES NOT allow any CSS to run inside a README.md file
                         <li>
                             CSS
                         </li>
-                        <li>
-                            Info security
-                        </li>
-                        <li>
-                            Algorithmic design
-                        </li>
                     </ul>
                 </li>
             </ul>
@@ -119,8 +113,6 @@ IMPORTANT NOTE: the GitHub DOES NOT allow any CSS to run inside a README.md file
                     <ul>
                         <li>
                             Moderate terminal knowledge
-                            <br>
-                            (both Bash and Windows terminal)
                         </li>
                         <li>
                             Vim / Neovim
@@ -139,6 +131,7 @@ IMPORTANT NOTE: the GitHub DOES NOT allow any CSS to run inside a README.md file
     </tr>
     <tr>
         <td>
+            <!-- In order to get headers up headers aligned I will try to have equal number of items in each list-->
             <ul>
                 <li>
                     Currently Learning
@@ -150,10 +143,7 @@ IMPORTANT NOTE: the GitHub DOES NOT allow any CSS to run inside a README.md file
                             CSS
                         </li>
                         <li>
-                            PHP
-                        </li>
-                        <li>
-                            Linux
+                            Bash
                         </li>
                     </ul>
                 </li>
