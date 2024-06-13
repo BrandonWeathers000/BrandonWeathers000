@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 IMPORTANT NOTE: the GitHub DOES NOT allow any CSS to run inside a README.md file and there is little to no way to get around this.
 -->
 
-# Hello All 👋  <!-- waving hand -->
+# 👋  <!-- waving hand --> From Turing to Torvalds
 
 ### 💡 <!-- lightbulb --> General Info 
 <!-- Here I am using an html table for more control over the stlying -->
@@ -77,7 +77,7 @@ IMPORTANT NOTE: the GitHub DOES NOT allow any CSS to run inside a README.md file
             Major
         </td>
         <td>
-            Applied Computer Somputer Science
+            Applied Computer Science
         </td>
     </tr>
     <tr>
@@ -102,7 +102,7 @@ IMPORTANT NOTE: the GitHub DOES NOT allow any CSS to run inside a README.md file
     </tr>
     <tr>
         <td>
-            Distro
+            Distrobution
         </td>
         <td>
             EndeavourOS x86_64
@@ -157,7 +157,7 @@ IMPORTANT NOTE: the GitHub DOES NOT allow any CSS to run inside a README.md file
                             Basic operating system operation
                         </li>
                         <li>
-                            Microsoft office and google suites 
+                            Microsoft Office and Google suites 
                         </li>
                     </ul>
                 </li>
@@ -166,53 +166,17 @@ IMPORTANT NOTE: the GitHub DOES NOT allow any CSS to run inside a README.md file
     </tr>
 </table>
 
-### 🌱  <!-- small plant --> Current Activities
-<table>
-    <tr>
-        <td>
-            <ul>
-                <li>
-                    Learning ...
-                    <ul>
-                        <li>
-                            HTML
-                        </li>
-                        <li>
-                            CSS
-                        </li>
-                        <li>
-                            Bash
-                        </li>
-                    </ul>
-                </li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>
-                    Working On ...
-                    <ul>
-                        <li>
-                            Sudoku game
-                        </li>
-                        <li>
-                            Real estate advertising website
-                        </li>
-                    </ul>
-                    <li>
-                        🤔  <!-- confused face -->Feel free to coloborate with me on any of these projects
-                    </li>
-                </li>
-            </ul>
-        </td>
-    </tr>
-</table>
+### 🌱  <!-- small plant --> Current Projects
+- Creating a Sudoku game using Java
+- Creating a real estate avertising website using HTMl, CSS, and JS
+- Customizing my desktop enviornment in Linux
+    - Feel free to collaborate with me on any of these projects
 
 ### 📫  <!-- mail box --> How To Reach Me
 <table>
     <tr>
         <td>
-            Personal email
+            Email
         </td>
         <td>
             brandon.r.weathers@gmail.com
@@ -264,19 +228,3 @@ IMPORTANT NOTE: the GitHub DOES NOT allow any CSS to run inside a README.md file
         </td>
     </tr>
 </table>
-
-### ⚡ <!-- lightning bolt --> Some of my other profiles
-<ul>
-    <li>
-        <a href="https://usca.joinhandshake.com/stu/users/46767162">Handshake</a>
-    </li>
-    <li>
-        <a href="https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage">Indead</a>
-    </li>
-    <li>
-        <a href="www.linkedin.com/in/brandon-weathers-51a4a5134">LinkedIn</a>
-    </li>
-    <li>
-        <a href="https://www.monster.com/profile/detail">Monster</a>
-    </li>
-</ul>
