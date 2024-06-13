@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 IMPORTANT NOTE: the GitHub DOES NOT allow any CSS to run inside a README.md file and there is little to no way to get around this.
 -->
 
-# 👋  <!-- waving hand --> From Turing to Torvalds
+# 👋  <!-- waving hand --> Implementing Software Solutions
 
 ### 💡 <!-- lightbulb --> General Info 
 <!-- Here I am using an html table for more control over the stlying -->
