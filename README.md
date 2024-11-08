@@ -154,7 +154,10 @@ IMPORTANT NOTE: the GitHub DOES NOT allow any CSS to run inside a README.md file
                             Vim / Neovim
                         </li>
                         <li>
-                            Basic operating system operation
+                            Emacs (I <3 Doom Emacs)
+                        </li>
+                        <li>
+                            Basic linux operating systems (Debain and Arch)
                         </li>
                         <li>
                             Microsoft Office and Google suites 
