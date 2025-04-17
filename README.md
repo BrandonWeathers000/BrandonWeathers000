@@ -96,9 +96,6 @@
                             Java (and libraries such as Swing and AWT)
                         </li>
                         <li>
-                            C
-                        </li>
-                        <li>
                             JavaScript
                         </li>
                         <li>
@@ -120,10 +117,10 @@
                             Moderate terminal knowledge
                         </li>
                         <li>
-                            Emacs
+                            C
                         </li>
                         <li>
-                            Emacs (I <3 Doom Emacs)
+                            Emacs
                         </li>
                         <li>
                             Basic linux operating systems (Debain and Arch)
