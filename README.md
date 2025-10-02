@@ -24,14 +24,6 @@
     </tr>
     <tr>
         <td>
-            Pronouns
-        </td>
-        <td>
-            He / Him
-        </td>
-    </tr>
-    <tr>
-        <td>
             College
         </td>
         <td>
@@ -68,7 +60,7 @@
     </tr>
     <tr>
         <td>
-            Distrobution
+            Distribution
         </td>
         <td>
             EndeavourOS x86_64
@@ -79,7 +71,7 @@
             Window manager
         </td>
         <td>
-            i3
+            EXWM
         </td>
     </tr>
 </table>
@@ -92,6 +84,9 @@
                 <li>
                     Formally ...
                     <ul>
+                        <li>
+                            Basic linux operating systems (Debain and Arch)
+                        </li>
                         <li>
                             Java (and libraries such as Swing and AWT)
                         </li>
@@ -120,10 +115,10 @@
                             C
                         </li>
                         <li>
-                            Emacs
+                            Elisp
                         </li>
                         <li>
-                            Basic linux operating systems (Debain and Arch)
+                            Emacs
                         </li>
                         <li>
                             Microsoft Office and Google suites 
