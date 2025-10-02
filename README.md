@@ -140,10 +140,18 @@
 <table>
     <tr>
         <td>
-            Email
+            Personal Email
         </td>
         <td>
             brandon.r.weathers@gmail.com
+        </td>
+    </tr>
+    <tr>
+        <td>
+            School Email
+        </td>
+        <td>
+            brw12@usac.edu
         </td>
     </tr>
 </table>
