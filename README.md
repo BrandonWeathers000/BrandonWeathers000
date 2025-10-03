@@ -1,18 +1,6 @@
-
 # 👋  <!-- waving hand --> Implementing Software Solutions
 
-### 💡 <!-- lightbulb --> General Info 
-<!-- Here I am using an html table for more control over the stlying -->
-<!-- I still have the and version in markdown if I ever want to switch back -->
-<!--
-| Name              | Brandon Weathers                        |
-| :---:             | :---:                                   |
-| **Pronouns**      | **He / Him**                            |
-| **College**       | **University of South Carolina: Aiken** |
-| **Major**         | **Applied Computer Science**            |
-| **Concentration** | **Cybersecurity**                       |
-| **Email**         | **brandon.r.weathers@gmail.com**        |
---->
+## 💡 <!-- lightbulb --> General Info 
 <table>
     <tr>
         <td>
@@ -48,7 +36,7 @@
     </tr>
 </table>
 
-### ⚙  <!-- gear --> Technical Info 
+## ⚙  <!-- gear --> Technical Info 
 <table>
     <tr>
         <td>
@@ -76,7 +64,7 @@
     </tr>
 </table>
 
-### 📖 <!-- open book--> Education 
+## 📖 <!-- open book--> Education 
 <table>
     <tr>
         <td>
@@ -130,13 +118,7 @@
     </tr>
 </table>
 
-<!-- ### 🌱   small plant Current Projects -->
-<!-- Creating a Sudoku game using Java -->
-<!-- Creating a real estate avertising website using HTMl, CSS, and JS -->
-<!-- Customizing my desktop enviornment in Linux -->
-<!--   - Feel free to collaborate with me on any of these projects -->
-
-### 📫  <!-- mail box --> How To Reach Me
+## 📫  <!-- mail box --> How To Reach Me
 <table>
     <tr>
         <td>
@@ -156,7 +138,7 @@
     </tr>
 </table>
 
-### ⚡ <!-- lightning bolt --> Some of my Other Profiles
+## ⚡ <!-- lightning bolt --> Some of my Other Profiles
 <table>
     <tr>
         <td>
