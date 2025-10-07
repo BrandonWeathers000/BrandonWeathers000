@@ -1,4 +1,4 @@
-<img src="ReadmeBanner.png" alt="Error title banner" margin-left="auto" margin-right="auto" width="100%">
+<img src="ReadmeBannerHD.png" alt="Error title banner" margin-left="auto" margin-right="auto" width="100%">
 
 ## 💡 <!-- lightbulb --> General Info 
 <table>
