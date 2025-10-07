@@ -1,5 +1,5 @@
 # 👋  <!-- waving hand --> Implementing Software Solutions
-![Error title banner](./ReadmeBanner.png)
+![Error title banner](ReadmeBanner.png)
 
 ## 💡 <!-- lightbulb --> General Info 
 <table>
