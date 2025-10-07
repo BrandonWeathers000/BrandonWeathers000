@@ -1,4 +1,4 @@
-<img src="image.jpg" alt="Error title banner">
+<img src="ReadmeBanner.png" alt="Error title banner" class="center">
 
 ## 💡 <!-- lightbulb --> General Info 
 <table>
