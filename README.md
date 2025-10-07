@@ -1,7 +1,7 @@
 <img src="ReadmeBannerHD.png" alt="Error title banner" margin-left="auto" margin-right="auto" width="100%">
 
 ## 💡 <!-- lightbulb --> General Info 
-<table>
+<table align="center" margin-left="auto" margin-right="auto">
     <tr>
         <td>
             Name
@@ -133,7 +133,7 @@
             School Email
         </td>
         <td>
-            brw12@usac.edu
+            brw12@usca.edu
         </td>
     </tr>
 </table>
