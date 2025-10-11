@@ -43,7 +43,7 @@
             OS
         </td>
         <td>
-            Linux
+            GNU/Linux
         </td>
     </tr>
     <tr>
