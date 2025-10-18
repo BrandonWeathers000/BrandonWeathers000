@@ -135,7 +135,7 @@
 </table>
 
 ## ⚡ <!-- lightning bolt --> Some of my Other Profiles
-<table>
+<table align="center" margin-left="auto" margin-right="auto">
     <tr>
         <td>
             Handshake
