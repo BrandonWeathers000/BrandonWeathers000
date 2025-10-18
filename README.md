@@ -60,14 +60,6 @@
     </tr>
 </table>
 
-<!-- | Name             | Brandon Weathers                    | -->
-<!-- | College          | University of South Carolina: Aiken | -->
-<!-- | Major            | Applied Computer Science            | -->
-<!-- | Concentration    | Cybersecurity                       | -->
-<!-- | Operating system | GNU/Linux                           | -->
-<!-- | Distribution     | EndeavourOS x86_64                  | -->
-<!-- | Window manager   | EXWM                                | -->
-
 ## 📖 <!-- open book--> Education 
 <table align="center" margin-left="auto" margin-right="auto">
     <tr>
@@ -143,7 +135,7 @@
 </table>
 
 ## ⚡ <!-- lightning bolt --> Some of my Other Profiles
-<table align="center" margin-left="auto" margin-right="auto">
+<table>
     <tr>
         <td>
             Handshake
