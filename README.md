@@ -1,6 +1,6 @@
 <img src="ReadmeBannerHD.png" alt="Error title banner" margin-left="auto" margin-right="auto" width="100%">
 
-## 💡 <!-- lightbulb --> General Info 
+## 💡 <!-- lightbulb --> Information
 <table align="center" margin-left="auto" margin-right="auto">
     <tr>
         <td>
@@ -34,10 +34,6 @@
             Cybersecurity
         </td>
     </tr>
-</table>
-
-## ⚙  <!-- gear --> Technical Info 
-<table>
     <tr>
         <td>
             OS
@@ -64,8 +60,16 @@
     </tr>
 </table>
 
+<!-- | Name             | Brandon Weathers                    | -->
+<!-- | College          | University of South Carolina: Aiken | -->
+<!-- | Major            | Applied Computer Science            | -->
+<!-- | Concentration    | Cybersecurity                       | -->
+<!-- | Operating system | GNU/Linux                           | -->
+<!-- | Distribution     | EndeavourOS x86_64                  | -->
+<!-- | Window manager   | EXWM                                | -->
+
 ## 📖 <!-- open book--> Education 
-<table>
+<table align="center" margin-left="auto" margin-right="auto">
     <tr>
         <td>
             <ul>
@@ -119,7 +123,7 @@
 </table>
 
 ## 📫  <!-- mail box --> How To Reach Me
-<table>
+<table align="center" margin-left="auto" margin-right="auto">
     <tr>
         <td>
             Personal Email
@@ -139,7 +143,7 @@
 </table>
 
 ## ⚡ <!-- lightning bolt --> Some of my Other Profiles
-<table>
+<table align="center" margin-left="auto" margin-right="auto">
     <tr>
         <td>
             Handshake
