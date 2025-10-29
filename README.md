@@ -1,11 +1,5 @@
 <img src="ReadmeBannerHD.png" alt="Error title banner" margin-left="auto" margin-right="auto" width="100%">
 
-Testing
-Testing
-Testing
-Testing
-Testing
-
 ## 💡 <!-- lightbulb --> Information
 <table align="center" margin-left="auto" margin-right="auto">
     <tr>
