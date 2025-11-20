@@ -148,7 +148,7 @@
         <td>
             Indead
         </td>
-        <td>
+            <td>
             https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage
         </td>
     </tr>
@@ -157,7 +157,7 @@
             LinkedIn
         </td>
         <td>
-            www.linkedin.com/in/brandon-weathers-51a4a5134
+            https://www.linkedin.com/in/brandon-weathers-51a4a5134
         </td>
     </tr>
     <tr>
