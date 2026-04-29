@@ -47,7 +47,7 @@
             Distribution
         </td>
         <td>
-            EndeavourOS x86_64
+            Arch
         </td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@
             Window manager
         </td>
         <td>
-            EXWM
+            SwayFX
         </td>
     </tr>
 </table>
@@ -69,7 +69,7 @@
                     Formally ...
                     <ul>
                         <li>
-                            Basic linux operating systems (Debain and Arch)
+                            Basic linux operating systems (Debain, Arch, Kali)
                         </li>
                         <li>
                             Java (and libraries such as Swing and AWT)
@@ -93,7 +93,7 @@
                     Avocationally ...
                     <ul>
                         <li>
-                            Moderate terminal knowledge
+                            Bash & ZSH
                         </li>
                         <li>
                             C
@@ -102,7 +102,7 @@
                             Elisp
                         </li>
                         <li>
-                            Emacs
+                            grep, sed, & awk
                         </li>
                         <li>
                             Microsoft Office and Google suites 
