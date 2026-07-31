@@ -23,15 +23,7 @@
             Major
         </td>
         <td>
-            Applied Computer Science
-        </td>
-    </tr>
-    <tr>
-        <td>
-            Concentration
-        </td>
-        <td>
-            Cybersecurity
+            Applied Computer Science (Cybersecurity)
         </td>
     </tr>
     <tr>
@@ -55,7 +47,7 @@
             Window manager
         </td>
         <td>
-            SwayFX
+            River
         </td>
     </tr>
 </table>
@@ -69,10 +61,10 @@
                     Formally ...
                     <ul>
                         <li>
-                            Basic linux operating systems (Debain, Arch, Kali)
+                            Linux (Arch, Debain, & Kali)
                         </li>
                         <li>
-                            Java (and libraries such as Swing and AWT)
+                            Java (and libraries such as Swing, AWT, & JavaFX)
                         </li>
                         <li>
                             JavaScript
@@ -93,10 +85,10 @@
                     Avocationally ...
                     <ul>
                         <li>
-                            Bash & ZSH
+                            C
                         </li>
                         <li>
-                            C
+                            Bash & ZSH
                         </li>
                         <li>
                             Elisp
@@ -129,7 +121,7 @@
             School Email
         </td>
         <td>
-            brw12@usca.edu
+            brweath@clemson.edu
         </td>
     </tr>
 </table>
