@@ -126,6 +126,10 @@
     </tr>
 </table>
 
+## 📝 Resume
+<iframe type="pdf" src="./MarchResumeUpdate.pdf">
+</iframe>
+
 ## ⚡ <!-- lightning bolt --> Some of my Other Profiles
 <table align="center" margin-left="auto" margin-right="auto">
     <tr>
