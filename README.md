@@ -126,9 +126,8 @@
     </tr>
 </table>
 
-## 📝 Resume
-<iframe type="pdf" src="./MarchResumeUpdate.pdf">
-</iframe>
+## 📝 Resume <!-- memo -->
+<iframe type="pdf" src="JulyResumeUpdate.pdf" width="800" height="500"> </iframe>
 
 ## ⚡ <!-- lightning bolt --> Some of my Other Profiles
 <table align="center" margin-left="auto" margin-right="auto">
