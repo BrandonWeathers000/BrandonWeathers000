@@ -1,6 +1,8 @@
 <img src="ReadmeBannerHD.png" alt="Error title banner" margin-left="auto" margin-right="auto" width="100%">
 
-## 💡 <!-- lightbulb --> Information
+<h3 align="center">
+    💡 <!-- lightbulb --> Information
+</h3>
 <table align="center" margin-left="auto" margin-right="auto">
     <tr>
         <td>
@@ -52,7 +54,9 @@
     </tr>
 </table>
 
-## 📖 <!-- open book--> Education 
+<h3 align="center">
+    📖 <!-- open book --> Education 
+</h3>
 <table align="center" margin-left="auto" margin-right="auto">
     <tr>
         <td>
@@ -64,7 +68,7 @@
                             Linux (Arch, Debain, & Kali)
                         </li>
                         <li>
-                            Java (and libraries such as Swing, AWT, & JavaFX)
+                            Java (Swing, AWT, & JavaFX)
                         </li>
                         <li>
                             JavaScript
@@ -97,7 +101,7 @@
                             grep, sed, & awk
                         </li>
                         <li>
-                            Microsoft Office and Google suites 
+                            MS Office and Google suites 
                         </li>
                     </ul>
                 </li>
@@ -106,7 +110,9 @@
     </tr>
 </table>
 
-## 📫  <!-- mail box --> How To Reach Me
+<h3 align="center">
+    📫  <!-- mail box --> How to Reach Me
+</h3>
 <table align="center" margin-left="auto" margin-right="auto">
     <tr>
         <td>
@@ -126,11 +132,13 @@
     </tr>
 </table>
 
-## 📝 Resume <!-- memo -->
-<iframe type="pdf" src="./JulyResumeUpdate.pdf" width="800" height="500"> </iframe>
+<h3 align="center">
+    📝  <!-- memo --><a href="./JulyResumeUpdate.pdf">Resume</a>
+</h3>
 
-
-## ⚡ <!-- lightning bolt --> Some of my Other Profiles
+<h3 align="center">
+    🌐 <!-- glob with meridians --> Some of my Other Profiles
+</h3>
 <table align="center" margin-left="auto" margin-right="auto">
     <tr>
         <td>
@@ -142,7 +150,7 @@
     </tr>
     <tr>
         <td>
-            Indead
+            Indeed
         </td>
         <td>
             https://profile.indeed.com/?hl=en_US&co=US&from=gnav-homepage
